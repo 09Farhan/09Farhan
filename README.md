@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @09Farhan
+- 👋 Hi, I’m @Farhan
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C++, Python
+- 🌱 I’m currently learning C++, Python, WebDev
+- 📖 Student at Siliguri Institute of Technology
 - 📫 How to reach me ...ansarif356@gmail.com
 
 <!---
