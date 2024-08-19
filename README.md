@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development, DSA**
 
-- 💬 Ask me about **HTML, CSS, Js, DSA, React, MERN stack**
+- 💬 Ask me about **HTML, CSS, JavaScript, DSA, C, C++**
 
 - 📫 How to reach me **ansarifarhan.ms@outlook.com**
 
