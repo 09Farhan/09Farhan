@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [AtoZ DSA](https://github.com/09Farhan/AtoZ-DSA.git)
 
-- 🌱 I’m currently learning **Full Stack Development, DSA**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, DSA, C, C++**
 
