@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/farhan_s2017" target="blank"><img src="https://img.shields.io/twitter/follow/farhan_s2017?logo=twitter&style=for-the-badge" alt="farhan_s2017" /></a> </p>
 
-- 🔭 I’m currently working on [AtoZ DSA](https://github.com/09Farhan/AtoZ-DSA.git)
+- 🔭 I’m currently working on [Full Stack WebDev](https://github.com/09Farhan/Full-Stack-WebDev)
 
 - 🌱 I’m currently learning **Full Stack Development**
 
