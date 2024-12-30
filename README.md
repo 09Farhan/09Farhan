@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, DSA, C, C++**
 
-- 📫 How to reach me **farhanparvez.work@.com**
+- 📫 How to reach me **farhanparvez.work@gmail.com**
 
 - ⚡ Fun fact **I love to play Guitar in my free time, and I go to the gym, also I play chess**
 
